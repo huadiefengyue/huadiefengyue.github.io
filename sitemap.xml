@@ -110,24 +110,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
-    
-    <lastmod>2023-03-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/authorqq/index.html</loc>
-    
-    <lastmod>2023-03-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/bangumis/index%20copy.html</loc>
     
     <lastmod>2023-03-27</lastmod>
@@ -137,7 +119,25 @@
   </url>
   
   <url>
+    <loc>http://example.com/about/index.html</loc>
+    
+    <lastmod>2023-03-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/authorwechat/index.html</loc>
+    
+    <lastmod>2023-03-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/authorqq/index.html</loc>
     
     <lastmod>2023-03-27</lastmod>
     
