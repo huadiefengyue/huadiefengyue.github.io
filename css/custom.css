@@ -740,3 +740,13 @@
   -ms-transform: scale(0.5);
   -o-transform: scale(0.5);
 }
+
+
+
+svg.icon {
+  width: 1.28em;
+  height: 1.28em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
