@@ -34,8 +34,52 @@
     
     <entry>
       <title>花蝶的好朋友</title>
+      <link href="/archives/archives.html"/>
+      <url>/archives/archives.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/bangumis/index.html"/>
+      <url>/bangumis/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>花蝶的好朋友</title>
+      <link href="/authorqq/index.html"/>
+      <url>/authorqq/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>花蝶的好朋友</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/bangumis/index.html"/>
+      <url>/bangumis/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -56,41 +100,8 @@
     
     <entry>
       <title>花蝶的好朋友</title>
-      <link href="/archives/archives.html"/>
-      <url>/archives/archives.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>花蝶的好朋友</title>
-      <link href="/authorqq/index.html"/>
-      <url>/authorqq/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/bangumis/index.html"/>
-      <url>/bangumis/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/bangumis/index.html"/>
-      <url>/bangumis/index.html</url>
+      <link href="/cc/index.html"/>
+      <url>/cc/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -110,17 +121,6 @@
     
     
     <entry>
-      <title>花蝶的留言板</title>
-      <link href="/comments/index.html"/>
-      <url>/comments/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>categories</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -132,33 +132,11 @@
     
     
     <entry>
-      <title>花蝶的好朋友</title>
-      <link href="/cc/index.html"/>
-      <url>/cc/index.html</url>
+      <title>花蝶的留言板</title>
+      <link href="/comments/index.html"/>
+      <url>/comments/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/css/runtime.css"/>
-      <url>/css/runtime.css</url>
-      
-        <content type="html"><![CDATA[/*电子钟字体*/@font-face {    font-family: 'UnidreamLED';    src: url("https://cdn.jsdelivr.net/npm/akilar-candyassets/fonts/UnidreamLED.ttf");    font-display: swap;  }  div#runtime {    width: 180px;    margin: auto;    color: #fff;    padding-inline: 5px;    border-radius: 10px;    background-color: rgba(0,0,0,0.7);    font-family: 'UnidreamLED';  }  [data-theme="dark"] div#runtime {    color: #28b4c8;    box-shadow: 0 0 5px rgba(28,69,218,0.71);    animation: flashlight 1s linear infinite alternate;  }  /*悬停显示徽标提示语*/  a.github-badge:hover:before {    position: fixed;    width: fit-content;    margin: auto;    left: 0;    right: 0;    top: 10%;    border-radius: 10px;    text-align: center;    z-index: 100;    content: attr(data-title);    font-size: 20px;    color: #fff;    padding: 10px;    background-color: var(--text-bg-hover);  }  [data-theme=dark] a.github-badge:hover:before {    background-color: rgba(18,18,18,0.8);  }  @-moz-keyframes flashlight {    from {      box-shadow: 0 0 5px #1478d2;    }    to {      box-shadow: 0 0 2px #1478d2;    }  }  @-webkit-keyframes flashlight {    from {      box-shadow: 0 0 5px #1478d2;    }    to {      box-shadow: 0 0 2px #1478d2;    }  }  @-o-keyframes flashlight {    from {      box-shadow: 0 0 5px #1478d2;    }    to {      box-shadow: 0 0 2px #1478d2;    }  }  @keyframes flashlight {    from {      box-shadow: 0 0 5px #1478d2;    }    to {      box-shadow: 0 0 2px #1478d2;    }  }]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/css/universe.css"/>
-      <url>/css/universe.css</url>
-      
-        <content type="html"><![CDATA[/* 背景宇宙星光  */#universe{    display: block;    position: fixed;    margin: 0;    padding: 0;    border: 0;    outline: 0;    left: 0;    top: 0;    width: 100%;    height: 100%;    pointer-events: none;    /* 这个是调置顶的优先级的，-1在文章页下面，背景上面，个人推荐这种 */    z-index: -1;  }]]></content>
       
     </entry>
     
@@ -177,17 +155,6 @@
     
     <entry>
       <title>花蝶的好朋友</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>花蝶的好朋友</title>
       <link href="/goodsites/index.html"/>
       <url>/goodsites/index.html</url>
       
@@ -198,11 +165,44 @@
     
     
     <entry>
-      <title>花蝶的好朋友</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title></title>
+      <link href="/js/readPercent.js"/>
+      <url>/js/readPercent.js</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[window.onscroll = percent;// 执行函数// 页面百分比function percent() {    let a = document.documentElement.scrollTop || window.pageYOffset, // 卷去高度        b = Math.max(document.body.scrollHeight, document.documentElement.scrollHeight, document.body.offsetHeight, document.documentElement.offsetHeight, document.body.clientHeight, document.documentElement.clientHeight) - document.documentElement.clientHeight, // 整个网页高度        result = Math.round(a / b * 100), // 计算百分比        up = document.querySelector("#go-up") // 获取按钮    if (result <= 95) {        up.childNodes[0].style.display = 'none'        up.childNodes[1].style.display = 'block'        up.childNodes[1].innerHTML = result;    } else {        up.childNodes[1].style.display = 'none'        up.childNodes[0].style.display = 'block'    }}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/readPercent.css"/>
+      <url>/css/readPercent.css</url>
+      
+        <content type="html"><![CDATA[/* 返回顶部 */button#go-up #percent {    display: none;    font-weight: bold;    font-size: 15px !important;}button#go-up span {    font-size: 12px!important;    margin-right: -1px;}/* 鼠标滑动到按钮上时显示返回顶部图标 */button#go-up:hover i {    display: block !important;}button#go-up:hover #percent {    display: none !important;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/universe.css"/>
+      <url>/css/universe.css</url>
+      
+        <content type="html"><![CDATA[/* 背景宇宙星光  */#universe{    display: block;    position: fixed;    margin: 0;    padding: 0;    border: 0;    outline: 0;    left: 0;    top: 0;    width: 100%;    height: 100%;    pointer-events: none;    /* 这个是调置顶的优先级的，-1在文章页下面，背景上面，个人推荐这种 */    z-index: -1;  }]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/runtime.css"/>
+      <url>/css/runtime.css</url>
+      
+        <content type="html"><![CDATA[/*电子钟字体*/@font-face {    font-family: 'UnidreamLED';    src: url("https://cdn.jsdelivr.net/npm/akilar-candyassets/fonts/UnidreamLED.ttf");    font-display: swap;  }  div#runtime {    width: 180px;    margin: auto;    color: #fff;    padding-inline: 5px;    border-radius: 10px;    background-color: rgba(0,0,0,0.7);    font-family: 'UnidreamLED';  }  [data-theme="dark"] div#runtime {    color: #28b4c8;    box-shadow: 0 0 5px rgba(28,69,218,0.71);    animation: flashlight 1s linear infinite alternate;  }  /*悬停显示徽标提示语*/  a.github-badge:hover:before {    position: fixed;    width: fit-content;    margin: auto;    left: 0;    right: 0;    top: 10%;    border-radius: 10px;    text-align: center;    z-index: 100;    content: attr(data-title);    font-size: 20px;    color: #fff;    padding: 10px;    background-color: var(--text-bg-hover);  }  [data-theme=dark] a.github-badge:hover:before {    background-color: rgba(18,18,18,0.8);  }  @-moz-keyframes flashlight {    from {      box-shadow: 0 0 5px #1478d2;    }    to {      box-shadow: 0 0 2px #1478d2;    }  }  @-webkit-keyframes flashlight {    from {      box-shadow: 0 0 5px #1478d2;    }    to {      box-shadow: 0 0 2px #1478d2;    }  }  @-o-keyframes flashlight {    from {      box-shadow: 0 0 5px #1478d2;    }    to {      box-shadow: 0 0 2px #1478d2;    }  }  @keyframes flashlight {    from {      box-shadow: 0 0 5px #1478d2;    }    to {      box-shadow: 0 0 2px #1478d2;    }  }]]></content>
       
     </entry>
     
@@ -225,6 +225,28 @@
       <url>/js/runtime.js</url>
       
         <content type="html"><![CDATA[setInterval(() => {    let create_time = Math.round(new Date('2023-03-24 00:00:00').getTime() / 1000); //在此行修改建站时间    let timestamp = Math.round((new Date().getTime()) / 1000);    let second = timestamp - create_time;    let time = new Array(0, 0, 0, 0, 0);      var nol = function(h){      return h>9?h:'0'+h;    }    if (second >= 365 * 24 * 3600) {      time[0] = parseInt(second / (365 * 24 * 3600));      second %= 365 * 24 * 3600;    }    if (second >= 24 * 3600) {      time[1] = parseInt(second / (24 * 3600));      second %= 24 * 3600;    }    if (second >= 3600) {      time[2] = nol(parseInt(second / 3600));      second %= 3600;    }    if (second >= 60) {      time[3] = nol(parseInt(second / 60));      second %= 60;    }    if (second > 0) {      time[4] = nol(second);    }    if ((Number(time[2])<22) && (Number(time[2])>7)){      currentTimeHtml ="<img class='boardsign' src='https://img.shields.io/badge/糖果屋-营业中-6adea8?style=social&logo=cakephp' title='距离百年老店也就差不到一百年~'><div id='runtime'>" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';    }    else{      currentTimeHtml ="<img class='boardsign' src='https://img.shields.io/badge/糖果屋-打烊了-6adea8?style=social&logo=coffeescript' title='这个点了应该去睡觉啦，熬夜对身体不好哦'><div id='runtime'>" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';    }    document.getElementById("workboard").innerHTML = currentTimeHtml;  }, 1000);]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>花蝶的好朋友</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>花蝶的好朋友</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
