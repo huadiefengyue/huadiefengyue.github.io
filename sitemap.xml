@@ -146,7 +146,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/authorqq/index.html</loc>
+    <loc>http://example.com/authorwechat/index.html</loc>
     
     <lastmod>2023-03-27</lastmod>
     
@@ -164,7 +164,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/authorwechat/index.html</loc>
+    <loc>http://example.com/authorqq/index.html</loc>
     
     <lastmod>2023-03-27</lastmod>
     
@@ -191,14 +191,14 @@
 
   
   <url>
-    <loc>http://example.com/tags/%E6%A0%87%E7%AD%BE1/</loc>
+    <loc>http://example.com/tags/%E6%A0%87%E7%AD%BE2/</loc>
     <lastmod>2023-03-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E6%A0%87%E7%AD%BE2/</loc>
+    <loc>http://example.com/tags/%E6%A0%87%E7%AD%BE1/</loc>
     <lastmod>2023-03-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -221,14 +221,14 @@
 
   
   <url>
-    <loc>http://example.com/categories/C/</loc>
+    <loc>http://example.com/categories/Java/</loc>
     <lastmod>2023-03-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/Java/</loc>
+    <loc>http://example.com/categories/C/</loc>
     <lastmod>2023-03-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
