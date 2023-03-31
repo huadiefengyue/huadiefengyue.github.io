@@ -10,23 +10,23 @@
     font-display: swap;
     font-weight: lighter;
   }
-  
+
   div#menus {
     font-family: "ZhuZiAYuanJWD";
   }
-  
+
   h1#site-title {
     font-family: ZhuZiAYuanJWD;
     font-size: 3em !important;
   }
-  
+
   a.article-title,
   a.blog-slider__title,
   a.categoryBar-list-link,
   h1.post-title {
     font-family: ZhuZiAYuanJWD;
   }
-  
+
   .iconfont {
     font-family: "iconfont" !important;
     font-size: 3em;
@@ -35,7 +35,7 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
-  
+
   /* 时间轴生肖icon */
   svg.icon {
     /* 这里定义svg.icon，避免和Butterfly自带的note标签冲突 */
@@ -46,192 +46,192 @@
     fill: currentColor;
     overflow: hidden;
   }
-  
+
   .icon-zhongbiao::before {
     color: #f7c768;
   }
-  
+
   /* bilibli番剧插件 */
   #article-container .bangumi-tab.bangumi-active {
     background: var(--anzhiyu-theme);
     color: var(--anzhiyu-ahoverbg);
     border-radius: 10px;
   }
-  
+
   a.bangumi-tab:hover {
     text-decoration: none !important;
   }
-  
+
   .bangumi-button:hover {
     background: var(--anzhiyu-theme) !important;
     border-radius: 10px !important;
     color: var(--anzhiyu-ahoverbg) !important;
   }
-  
+
   a.bangumi-button.bangumi-nextpage:hover {
     text-decoration: none !important;
   }
-  
+
   .bangumi-button {
     padding: 5px 10px !important;
   }
-  
+
   a.bangumi-tab {
     padding: 5px 10px !important;
   }
-  
+
   svg.icon.faa-tada {
     font-size: 1.1em;
   }
-  
+
   .bangumi-info-item {
     border-right: 1px solid #f2b94b;
   }
-  
+
   .bangumi-info-item span {
     color: #f2b94b;
   }
-  
+
   .bangumi-info-item em {
     color: #f2b94b;
   }
-  
+
   /* 解决artitalk的图标问题 */
   #uploadSource>svg {
     width: 1.19em;
     height: 1.5em;
   }
-  
+
   /*top-img黑色透明玻璃效果移除，不建议加，除非你执着于完全一图流或者背景图对比色明显 */
   #page-header:not(.not-top-img):before {
     background-color: transparent !important;
   }
-  
+
   /* 首页文章卡片 */
   #recent-posts>.recent-post-item {
     background: rgba(255, 255, 255, 0.9);
   }
-  
+
   /* 首页侧栏卡片 */
   #aside-content .card-widget {
     background: rgba(255, 255, 255, 0.9);
   }
-  
+
   /* 文章页面正文背景 */
   div#post {
     background: rgba(255, 255, 255, 0.9);
   }
-  
+
   /* 分页页面 */
   div#page {
     background: rgba(255, 255, 255, 0.9);
   }
-  
+
   /* 归档页面 */
   div#archive {
     background: rgba(255, 255, 255, 0.9);
   }
-  
+
   /* 标签页面 */
   div#tag {
     background: rgba(255, 255, 255, 0.9);
   }
-  
+
   /* 分类页面 */
   div#category {
     background: rgba(255, 255, 255, 0.9);
   }
-  
+
   /*夜间模式伪类遮罩层透明*/
   [data-theme="dark"] #recent-posts>.recent-post-item {
     background: #121212;
   }
-  
+
   [data-theme="dark"] .card-widget {
     background: #121212 !important;
   }
-  
+
   [data-theme="dark"] div#post {
     background: #121212 !important;
   }
-  
+
   [data-theme="dark"] div#tag {
     background: #121212 !important;
   }
-  
+
   [data-theme="dark"] div#archive {
     background: #121212 !important;
   }
-  
+
   [data-theme="dark"] div#page {
     background: #121212 !important;
   }
-  
+
   [data-theme="dark"] div#category {
     background: #121212 !important;
   }
-  
+
   [data-theme="dark"] div#category {
     background: transparent !important;
   }
-  
+
   /* 页脚透明 */
   #footer {
     background: transparent !important;
   }
-  
+
   /* 头图透明 */
   #page-header {
     background: transparent !important;
   }
-  
+
   #rightside>div>button {
     border-radius: 5px;
   }
-  
+
   /* 滚动条 */
-  
+
   ::-webkit-scrollbar {
     width: 10px;
     height: 10px;
   }
-  
+
   ::-webkit-scrollbar-thumb {
     background-color: #3f0a7c;
     border-radius: 2em;
   }
-  
+
   ::-webkit-scrollbar-corner {
     background-color: transparent;
   }
-  
+
   ::-moz-selection {
     color: #fff;
     background-color: #680a6b;
   }
-  
+
   /* 音乐播放器 */
-  
+
   /* .aplayer .aplayer-lrc {
       display: none !important;
     } */
-  
+
   .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
     left: -66px !important;
     transition: all 0.3s;
     /* 默认情况下缩进左侧66px，只留一点箭头部分 */
   }
-  
+
   .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {
     left: 0 !important;
     transition: all 0.3s;
     /* 鼠标悬停是左侧缩进归零，完全显示按钮 */
   }
-  
+
   .aplayer.aplayer-fixed {
     z-index: 999999 !important;
   }
-  
+
   /* 评论框  */
   .vwrap {
     box-shadow: 2px 2px 5px #bbb;
@@ -240,9 +240,9 @@
     padding: 30px;
     margin: 30px 0px 30px 0px;
   }
-  
+
   /* 设置评论框 */
-  
+
   .vcard {
     box-shadow: 2px 2px 5px #bbb;
     background: rgba(255, 255, 255, 0.3);
@@ -250,12 +250,12 @@
     padding: 30px;
     margin: 30px 0px 0px 0px;
   }
-  
+
   /* 鼠标图标 */
   body {
     cursor: url("/img/x1.cur"), auto;
   }
-  
+
   a,
   [type="button"]:not(:disabled),
   [type="reset"]:not(:disabled),
@@ -263,16 +263,16 @@
   button:not(:disabled) {
     cursor: url("/img/x2.cur"), auto !important;
   }
-  
+
   /* md网站下划线 */
   #article-container a:hover {
     text-decoration: none !important;
   }
-  
+
   #article-container #hpp_talk p img {
     display: inline;
   }
-  
+
   /* 404页面 */
   #error-wrap {
     position: absolute;
@@ -284,7 +284,7 @@
     max-width: 1000px;
     transform: translate(0, -50%);
   }
-  
+
   #error-wrap .error-content {
     display: flex;
     flex-direction: row;
@@ -297,7 +297,7 @@
     box-shadow: var(--card-box-shadow);
     transition: all 0.3s;
   }
-  
+
   #error-wrap .error-content .error-img {
     box-flex: 1;
     flex: 1;
@@ -308,7 +308,7 @@
     background-position: center;
     background-size: cover;
   }
-  
+
   #error-wrap .error-content .error-info {
     box-flex: 1;
     flex: 1;
@@ -317,18 +317,18 @@
     font-size: 14px;
     font-family: Titillium Web, "PingFang SC", "Hiragino Sans GB", "Microsoft JhengHei", "Microsoft YaHei", sans-serif;
   }
-  
+
   #error-wrap .error-content .error-info .error_title {
     margin-top: -4rem;
     font-size: 9em;
   }
-  
+
   #error-wrap .error-content .error-info .error_subtitle {
     margin-top: -3.5rem;
     word-break: break-word;
     font-size: 1.6em;
   }
-  
+
   #error-wrap .error-content .error-info a {
     display: inline-block;
     margin-top: 0.5rem;
@@ -336,7 +336,7 @@
     background: var(--btn-bg);
     color: var(--btn-color);
   }
-  
+
   #body-wrap.error .aside-list {
     display: flex;
     flex-direction: row;
@@ -347,7 +347,7 @@
     width: 100%;
     overflow: scroll;
   }
-  
+
   #body-wrap.error .aside-list .aside-list-group {
     display: flex;
     flex-direction: row;
@@ -355,17 +355,17 @@
     max-width: 1200px;
     margin: 0 auto;
   }
-  
+
   #body-wrap.error .aside-list .aside-list-item {
     padding: 0.5rem;
   }
-  
+
   #body-wrap.error .aside-list .aside-list-item img {
     width: 100%;
     object-fit: cover;
     border-radius: 12px;
   }
-  
+
   #body-wrap.error .aside-list .aside-list-item .thumbnail {
     overflow: hidden;
     width: 230px;
@@ -373,7 +373,7 @@
     background: var(--anzhiyu-card-bg);
     display: flex;
   }
-  
+
   #body-wrap.error .aside-list .aside-list-item .content .title {
     -webkit-line-clamp: 2;
     overflow: hidden;
@@ -386,26 +386,26 @@
     padding-top: 0.5rem;
     color: white;
   }
-  
+
   #body-wrap.error .aside-list .aside-list-item .content time {
     display: none;
   }
-  
+
   /* 代码框主题 */
   #article-container figure.highlight {
     border-radius: 10px;
   }
-  
+
   /* 页脚透明 */
   #footer {
     background: transparent !important;
   }
-  
+
   /* 头图透明 */
   #page-header {
     background: transparent !important;
   }
-  
+
   /* 一级菜单居中 */
   #nav .menus_items {
     position: absolute !important;
@@ -413,7 +413,7 @@
     left: 50% !important;
     transform: translateX(-50%) !important;
   }
-  
+
   /* 子菜单横向展示 */
   #nav .menus_items .menus_item:hover .menus_item_child {
     display: flex !important;
@@ -421,18 +421,21 @@
   /* ############################################################################################################################ */
   /* 这里的2是代表导航栏的第2个元素，即有子菜单的元素，可以按自己需求修改 */
   .menus_items .menus_item:nth-child(1) .menus_item_child {
-    left: -145px;
+    left: -115px;
   }
   .menus_items .menus_item:nth-child(2) .menus_item_child {
-    left: -120px;
+    left: -115px;
   }
   .menus_items .menus_item:nth-child(3) .menus_item_child {
-    left: -35px;
+    left: -55px;
   }
   .menus_items .menus_item:nth-child(4) .menus_item_child {
-    left: -150px;
+    left: -100px;
   }
-  
+  .menus_items .menus_item:nth-child(5) .menus_item_child {
+    left: -125px;
+  }
+
   /* 日间模式不生效 */
   [data-theme="light"] #site-name,
   [data-theme="light"] #site-title,
@@ -484,7 +487,7 @@
       text-shadow: #5636ed 0 0 15px;
     }
   }
-  
+
   @keyframes light_10px {
     0% {
       text-shadow: #5636ed 0 0 10px;
@@ -517,7 +520,7 @@
       text-shadow: #5636ed 0 0 10px;
     }
   }
-  
+
   @keyframes light_5px {
     0% {
       text-shadow: #5636ed 0 0 5px;
@@ -550,7 +553,7 @@
       text-shadow: #5636ed 0 0 5px;
     }
   }
-  
+
   /* 侧边栏个人信息卡片动态渐变色 */
   #aside-content > .card-widget.card-info {
     background: linear-gradient(
@@ -601,18 +604,18 @@
       background-position: 0% 50%;
     }
   }
-  
+
   /* 黑夜模式适配 */
   [data-theme="dark"] #aside-content > .card-widget.card-info {
     background: #191919ee;
   }
-  
+
   /* 个人信息Follow me按钮 */
   #aside-content > .card-widget.card-info > #card-info-btn {
     background-color: #3eb8be;
     border-radius: 8px;
   }
-  
+
 
   /* 帧率检测 */
 #fps {
@@ -1109,8 +1112,8 @@ svg.social_icon {
 }
 
 
-
-.name {
+/* 图片羽化 */
+/* .name {
   position: absolute;
   bottom: 30px;
   font-size: 50px;
@@ -1119,4 +1122,4 @@ svg.social_icon {
   color: #fff;
   backdrop-filter: blur(10px);
   -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3CforeignObject width='100%25' height='100%25'%3E%3Cbody class='wrap' xmlns='http://www.w3.org/1999/xhtml'%3E%3Cstyle%3E.wrap%7Bbox-sizing:border-box;margin:0;height:100%25;padding:15px%7D.shadow%7Bheight:100%25;background:black;border-radius:10px;box-shadow:0 0 5px black, 0 0 10px black, 0 0 15px black %7D%3C/style%3E%3Cdiv class='shadow'/%3E%3C/body%3E%3C/foreignObject%3E%3C/svg%3E");
-}
+} */
