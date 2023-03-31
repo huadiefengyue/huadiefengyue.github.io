@@ -92,9 +92,9 @@
     
     <category term="生活" scheme="http://example.com/categories/%E7%94%9F%E6%B4%BB/"/>
     
-    <category term="html" scheme="http://example.com/categories/html/"/>
-    
     <category term="java" scheme="http://example.com/categories/java/"/>
+    
+    <category term="html" scheme="http://example.com/categories/html/"/>
     
     
     <category term="C++" scheme="http://example.com/tags/C/"/>
