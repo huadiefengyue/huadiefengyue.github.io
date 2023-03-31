@@ -8,10 +8,12 @@
       <link href="/posts/1879f8e5.html"/>
       <url>/posts/1879f8e5.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="Helloworld"><a href="#Helloworld" class="headerlink" title="Helloworld"></a>Helloworld</h1>]]></content>
       
       
       <categories>
+          
+          <category> C++ </category>
           
           <category> html </category>
           
@@ -33,12 +35,14 @@
       <link href="/posts/df2849ec.html"/>
       <url>/posts/df2849ec.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="Helloworld"><a href="#Helloworld" class="headerlink" title="Helloworld"></a>Helloworld</h1>]]></content>
       
       
       <categories>
           
-          <category> Java </category>
+          <category> C++ </category>
+          
+          <category> java </category>
           
       </categories>
       
@@ -58,12 +62,18 @@
       <link href="/posts/5751eea2.html"/>
       <url>/posts/5751eea2.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="Helloworld"><a href="#Helloworld" class="headerlink" title="Helloworld"></a>Helloworld</h1>]]></content>
       
       
       <categories>
           
           <category> C++ </category>
+          
+          <category> 生活 </category>
+          
+          <category> java </category>
+          
+          <category> html </category>
           
       </categories>
       
@@ -83,10 +93,12 @@
       <link href="/posts/0.html"/>
       <url>/posts/0.html</url>
       
-        <content type="html"><![CDATA[<h1>进来就整点阳间的，本群原为抖音粉丝群，可以来玩玩哦~~~~</h1><p><img src="https://s1.imagehub.cc/images/2023/03/29/6f9ff71c39e4a1f6e550db60291340e6.jpeg" alt="alt text"></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="进来就整点阳间的，本群原为抖音粉丝群，可以来玩玩哦"><a href="#进来就整点阳间的，本群原为抖音粉丝群，可以来玩玩哦" class="headerlink" title="进来就整点阳间的，本群原为抖音粉丝群，可以来玩玩哦~~~~"></a>进来就整点阳间的，本群原为抖音粉丝群，可以来玩玩哦~~~~</h1><p><img src="https://s1.imagehub.cc/images/2023/03/29/6f9ff71c39e4a1f6e550db60291340e6.jpeg" alt="alt text"></p>]]></content>
       
       
       <categories>
+          
+          <category> C++ </category>
           
           <category> 生活 </category>
           
@@ -108,7 +120,7 @@
       <link href="/posts/4a17b156.html"/>
       <url>/posts/4a17b156.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>&lt;!DOCTYPE html&gt;</p><html lang="en"><head>    <meta charset="UTF-8">    <meta http-equiv="X-UA-Compatible" content="IE=edge">    <meta name="viewport" content="width=device-width, initial-scale=1.0">    <!-- <meta http-equiv="refresh" content="1;url=https://www.w3school.com.cn/index.html"> -->    <title>20220201322李世威</title>    <style>        body {            background-color: rgb(211, 196, 178);            text-align: center;        }        hr {            size: 30px;            border: rgb(0, 0, 0) 1px solid;            width: 900px;        }        p {            text-align: left;        }        ol {            text-align: left;        }        details {            font: 16px "Open Sans", "Arial", sans-serif;            width: 620px;            text-align: center;        }        details>summary {            padding: 2px 6px;            width: 15em;            background-color: #e89595;            border: none;            box-shadow: 3px 3px 4px black;        }        details>ol {            border-radius: 0 0 10px 10px;            background-color: #ddaaaa;            padding: 2px 6px;            margin: 0;            box-shadow: 3px 3px 4px black;        }        caption {            text-align: center;        }    </style>    <style type="text/css">        table{             border: 10px groove;        }        tr,        td {            border: 1px solid rgba(11, 5, 33, 0.582);        }        tr.a {            color: #f7f7f7;        }        tr.b {            color: #ff0000;        }        tr.c {            color: #11ff00;        }        caption {            text-align: center;        }    </style></head><body>    <!-- 头锚点 -->    <a href="#huadie2">去往底部</a>    <h5 id="huadie1" style="background-color:rgb(175, 152, 227)">html</h5>    <h1 center>        李世威    </h1>    <hr><!--线-->    <h2 center><i><u>u20国际赛事</u></i></h2>    <p>U20国足时隔9年再次在U20亚洲杯赛事中小组出线。这一点是对中国足球近年来青训体系建设的肯定。更是对安东尼奥执教的年轻球员们的肯定。</p>    <p>在本届U20亚洲杯第三轮对阵吉尔吉斯斯坦队的比赛中，第58分钟艾菲尔丁边路突破并给予高质量的传中球对手乌龙。</p>    <br><!--换行-->    <hr>    <details>        <summary>链接网址嘎嘎棒</summary>        <ol type="1">&nbsp;            <li>                <a href="http://www.baidu.com">百度</a>            </li>&nbsp;            <li>                <a href="https://www.runoob.com/" target="_blank" rel="noopener noreferrer">访问菜鸟教程!</a>            </li>        </ol>    </details>    <!-- ol有序 ul无序 dl定义列表（dt标题，dd解释） -->    <ol style="list-style-type: circle;">        <li>            原神        </li>        <li>            崩坏        </li>    </ol>    <table>        <caption>            雀魂麻将        </caption>        <tr class="a">            <td rowspan="3">大三元</td>            <td>白</td>            <td>白</td>            <td>白</td>        </tr>        <tr class="b">            <td>中</td>            <td>中</td>            <td>中</td>        </tr>        <tr class="c">            <td>發</td>            <td>發</td>            <td>發</td>        </tr>    </table>    <!-- 音频 -->    <audio src="核爆小曲.mp3" controls></audio><br>    <hr>    <!-- 视频 -->    <video src="符华猫猫舞.mp4" width="320" height="320" controls></video><br>    <!-- 链接邮箱 -->    <a href="mailto:1187273200@qq.com">联系我的邮箱</a>    <hr>    <!-- 链接图片 -->    <a href="https://www.pixiv.net/" target="_blank" rel="noopener noreferrer"><img src="1.jpg" title="胡桃" width="650"            height="300"></a><br>    <img src="22.jpg" usermap="#tupian" title="pixiv" width="300px" height="270px"><br>    <map name="tupian">        <area shape="circle" coords="20,25,25" href="http://www.baidu.com" alt="百度" />    </map>    <form name="lsw" id="22"  action="index.html" method="post">        <table>            <tr><td> 用户名：</td> <td><input type="text" value="长学号" readonly /></td></tr>            <tr><td> 密&nbsp;&nbsp;&nbsp;码:</td><td> <input type="password"/></td></tr>            <tr><td> 手机号：</td><td><input type="text" maxlength="11"/></td></tr>            <tr><td> 性&nbsp;&nbsp;&nbsp;别：</td><td><input checked type="radio" name="sex1" value="man"/>男 <input  type="radio" name="sex1" value="woman"/>女<br/></td></tr>            <tr><td> 爱&nbsp;&nbsp;&nbsp;好:</td><td><input type="checkbox" name="fav" value="football"/>足球 <input type="checkbox" name="fav" value="baskball"/>篮球 <input type="checkbox" name="fav" value="pingpang"/>乒乓球</td></tr>            <tr><td> 个人简介：</td><td><input/></td></tr>            <tr><td> 个人写真：</td><td><input type="image" src="22.jpg" width="300" height="300"/></td></tr>            <tr><td><input type="submit" value="提交"/>&nbsp;&nbsp;&nbsp;</td><td><input type="button" value="取消"/>&nbsp;&nbsp;&nbsp;</td></tr>            <tr><td><input type="reset" value="重置"/><br/></td> <td><input type="button" value="按钮"/></td></tr>            <tr><td>身份证扫描件:</td><td><input type="file"/></td></tr>        </table>        <!-- 密&nbsp;&nbsp;&nbsp;码: <input type="password"/><br>        手机号：<input type="text" maxlength="11"/><br/>        性&nbsp;&nbsp;&nbsp;别：<input checked type="radio" name="sex1" value="man"/>男 <input  type="radio" name="sex1" value="woman"/>女<br/>        爱&nbsp;&nbsp;&nbsp;好: <input type="checkbox" name="fav" value="football"/>足球 <input type="checkbox" name="fav" value="baskball"/>篮球 <input type="checkbox" name="fav" value="pingpang"/>乒乓球 <br/>        个人简介：<input/><br/>        个人写真：<input type="image" src="22.jpg" width="300" height="300"/><br/>        <input type="submit" value="提交"/>&nbsp;&nbsp;&nbsp; <input type="button" value="取消"/>&nbsp;&nbsp;&nbsp;<input type="reset" value="重置"/><br/>        <input type="button" value="按钮"/>        身份证扫描件:<input type="file"/> -->    </form></body>    <!-- 尾锚点 -->    <a id="huadie2" href="#huadie1">返回顶部</a></body>]]></content>
       
       
       <categories>
@@ -133,12 +145,14 @@
       <link href="/posts/4a17b156.html"/>
       <url>/posts/4a17b156.html</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
       <categories>
           
           <category> C++ </category>
+          
+          <category> 生活 </category>
           
       </categories>
       
@@ -158,30 +172,30 @@
     
     <entry>
       <title>花蝶的好朋友</title>
-      <link href="/archives/archives.html"/>
-      <url>/archives/archives.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>花蝶的好朋友</title>
-      <link href="/authorqq/index.html"/>
-      <url>/authorqq/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>花蝶的好朋友</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>花蝶的好朋友</title>
+      <link href="/bangumis/index%20copy.html"/>
+      <url>/bangumis/index%20copy.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/bangumis/index.html"/>
+      <url>/bangumis/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -202,30 +216,8 @@
     
     <entry>
       <title>花蝶的好朋友</title>
-      <link href="/bangumis/index%20copy.html"/>
-      <url>/bangumis/index%20copy.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/bangumis/index.html"/>
-      <url>/bangumis/index.html</url>
+      <link href="/authorqq/index.html"/>
+      <url>/authorqq/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -267,33 +259,33 @@
     
     
     <entry>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>花蝶的好朋友</title>
+      <link href="/archives/archives.html"/>
+      <url>/archives/archives.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/css/cat.css"/>
       <url>/css/cat.css</url>
       
         <content type="html"><![CDATA[body::-webkit-scrollbar {    width: 0;}.neko {    width: 64px;    height: 64px;    background-image: url("https://bu.dusays.com/2022/07/20/62d812db74be9.png");    position: absolute;    right: 32px;    background-repeat: no-repeat;    background-size: contain;    transform: translateX(50%);    cursor: pointer;    font-family: tzy;    font-weight: 600;    font-size: 16px;    color: #6f42c1;    display: none;}.neko::after {    display: none;    width: 100px;    height: 100px;    background-image: url("https://bu.dusays.com/2022/07/20/62d812d95e6f5.png");    background-size: contain;    z-index: 9999;    position: absolute;    right: 50%;    text-align: center;    line-height: 100px;    top: -115%;}.neko.showMsg::after {    content: attr(data-msg);    display: block;    overflow: hidden;    text-overflow: ellipsis;}.neko:hover::after {    content: attr(data-msg);    display: block;    overflow: hidden;    text-overflow: ellipsis;}.neko.fontColor::after {    color: #333;}/** * @description: 滚动条样式  跟猫二选一 */@media screen and (max-width:992px) {    ::-webkit-scrollbar {        width: 8px !important;        height: 8px !important    }    ::-webkit-scrollbar-track {        border-radius: 2em;    }    ::-webkit-scrollbar-thumb {        background-color: rgb(255 255 255 / .3);        background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.1) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, transparent 75%, transparent);        border-radius: 2em    }    ::-webkit-scrollbar-corner {        background-color: transparent    }}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/css/kslink.css"/>
-      <url>/css/kslink.css</url>
-      
-        <content type="html"><![CDATA[/* 添加友链按钮 *//* 快速填写格式 */.addBtn {    display: flex;    justify-content: center;    flex-wrap: wrap;}.addBtn button {    transition: .2s;    display: flex;    margin: 5px auto;    color: var(--global-bg);    padding: 15px;    border-radius: 40px;    background: var(--search-result-title);    align-items: center;}button {    padding: 0;    outline: 0;    border: none;    background: 0 0;    cursor: pointer;    touch-action: manipulation;}.fa-solid, .fas {    font-family: "Font Awesome 6 Free";    font-weight: 900;}.addBtn i {    font-size: 1.3rem;    margin-right: 10px;}.addBtn button:hover {    background: var(--theme-color);    color: #fff;}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/css/readPercent.css"/>
-      <url>/css/readPercent.css</url>
-      
-        <content type="html"><![CDATA[/* 返回顶部 */button#go-up #percent {    display: none;    font-weight: bold;    font-size: 15px !important;}button#go-up span {    font-size: 12px!important;    margin-right: -1px;}/* 鼠标滑动到按钮上时显示返回顶部图标 */button#go-up:hover i {    display: block !important;}button#go-up:hover #percent {    display: none !important;}]]></content>
       
     </entry>
     
@@ -312,21 +304,10 @@
     
     <entry>
       <title></title>
-      <link href="/css/runtime.css"/>
-      <url>/css/runtime.css</url>
+      <link href="/css/kslink.css"/>
+      <url>/css/kslink.css</url>
       
-        <content type="html"><![CDATA[/*电子钟字体*/@font-face {    font-family: 'UnidreamLED';    src: url("https://cdn.jsdelivr.net/npm/akilar-candyassets/fonts/UnidreamLED.ttf");    font-display: swap;  }  div#runtime {    width: 180px;    margin: auto;    color: #fff;    padding-inline: 5px;    border-radius: 10px;    background-color: rgba(0,0,0,0.7);    font-family: 'UnidreamLED';  }  [data-theme="dark"] div#runtime {    color: #28b4c8;    box-shadow: 0 0 5px rgba(28,69,218,0.71);    animation: flashlight 1s linear infinite alternate;  }  /*悬停显示徽标提示语*/  a.github-badge:hover:before {    position: fixed;    width: fit-content;    margin: auto;    left: 0;    right: 0;    top: 10%;    border-radius: 10px;    text-align: center;    z-index: 100;    content: attr(data-title);    font-size: 20px;    color: #fff;    padding: 10px;    background-color: var(--text-bg-hover);  }  [data-theme=dark] a.github-badge:hover:before {    background-color: rgba(18,18,18,0.8);  }  @-moz-keyframes flashlight {    from {      box-shadow: 0 0 5px #1478d2;    }    to {      box-shadow: 0 0 2px #1478d2;    }  }  @-webkit-keyframes flashlight {    from {      box-shadow: 0 0 5px #1478d2;    }    to {      box-shadow: 0 0 2px #1478d2;    }  }  @-o-keyframes flashlight {    from {      box-shadow: 0 0 5px #1478d2;    }    to {      box-shadow: 0 0 2px #1478d2;    }  }  @keyframes flashlight {    from {      box-shadow: 0 0 5px #1478d2;    }    to {      box-shadow: 0 0 2px #1478d2;    }  }]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/css/universe.css"/>
-      <url>/css/universe.css</url>
-      
-        <content type="html"><![CDATA[/* 背景宇宙星光  */#universe{    display: block;    position: fixed;    margin: 0;    padding: 0;    border: 0;    outline: 0;    left: 0;    top: 0;    width: 100%;    height: 100%;    pointer-events: none;    /* 这个是调置顶的优先级的，-1在文章页下面，背景上面，个人推荐这种 */    z-index: -1;  }]]></content>
+        <content type="html"><![CDATA[/* 添加友链按钮 *//* 快速填写格式 */.addBtn {    display: flex;    justify-content: center;    flex-wrap: wrap;}.addBtn button {    transition: .2s;    display: flex;    margin: 5px auto;    color: var(--global-bg);    padding: 15px;    border-radius: 40px;    background: var(--search-result-title);    align-items: center;}button {    padding: 0;    outline: 0;    border: none;    background: 0 0;    cursor: pointer;    touch-action: manipulation;}.fa-solid, .fas {    font-family: "Font Awesome 6 Free";    font-weight: 900;}.addBtn i {    font-size: 1.3rem;    margin-right: 10px;}.addBtn button:hover {    background: var(--theme-color);    color: #fff;}]]></content>
       
     </entry>
     
@@ -344,11 +325,33 @@
     
     
     <entry>
-      <title></title>
-      <link href="/js/cursor.js"/>
-      <url>/js/cursor.js</url>
+      <title>花蝶的QQ群</title>
+      <link href="/qqgroup/index.html"/>
+      <url>/qqgroup/index.html</url>
       
-        <content type="html"><![CDATA[var CURSOR;Math.lerp = (a, b, n) => (1 - n) * a + n * b;const getStyle = (el, attr) => {    try {        return window.getComputedStyle            ? window.getComputedStyle(el)[attr]            : el.currentStyle[attr];    } catch (e) {}    return "";};class Cursor {    constructor() {        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    move(left, top) {        this.cursor.style["left"] = `${left}px`;        this.cursor.style["top"] = `${top}px`;    }    create() {        if (!this.cursor) {            this.cursor = document.createElement("div");            this.cursor.id = "cursor";            this.cursor.classList.add("hidden");            document.body.append(this.cursor);        }        var el = document.getElementsByTagName('*');        for (let i = 0; i < el.length; i++)            if (getStyle(el[i], "cursor") == "pointer")                this.pt.push(el[i].outerHTML);        document.body.appendChild((this.scr = document.createElement("style")));        // 这里改变鼠标指针的颜色 由svg生成        this.scr.innerHTML = `* {cursor: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8' width='8px' height='8px'><circle cx='4' cy='4' r='4' opacity='1.0' fill='rgb(57, 197, 187)'/></svg>") 4 4, auto}`;    }    refresh() {        this.scr.remove();        this.cursor.classList.remove("hover");        this.cursor.classList.remove("active");        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    init() {        document.onmouseover  = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.add("hover");        document.onmouseout   = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.remove("hover");        document.onmousemove  = e => {(this.pos.curr == null) && this.move(e.clientX - 8, e.clientY - 8); this.pos.curr = {x: e.clientX - 8, y: e.clientY - 8}; this.cursor.classList.remove("hidden");};        document.onmouseenter = e => this.cursor.classList.remove("hidden");        document.onmouseleave = e => this.cursor.classList.add("hidden");        document.onmousedown  = e => this.cursor.classList.add("active");        document.onmouseup    = e => this.cursor.classList.remove("active");    }    render() {        if (this.pos.prev) {            this.pos.prev.x = Math.lerp(this.pos.prev.x, this.pos.curr.x, 0.15);            this.pos.prev.y = Math.lerp(this.pos.prev.y, this.pos.curr.y, 0.15);            this.move(this.pos.prev.x, this.pos.prev.y);        } else {            this.pos.prev = this.pos.curr;        }        requestAnimationFrame(() => this.render());    }}(() => {    CURSOR = new Cursor();    // 需要重新获取列表时，使用 CURSOR.refresh()})();]]></content>
+        <content type="html"><![CDATA[<h1 id="进来就整点阳间的，本群原为抖音粉丝群，可以来玩玩哦"><a href="#进来就整点阳间的，本群原为抖音粉丝群，可以来玩玩哦" class="headerlink" title="进来就整点阳间的，本群原为抖音粉丝群，可以来玩玩哦~~~~"></a>进来就整点阳间的，本群原为抖音粉丝群，可以来玩玩哦~~~~</h1><p><img src="https://s1.imagehub.cc/images/2023/03/29/6f9ff71c39e4a1f6e550db60291340e6.jpeg" alt="alt text"></p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>花蝶的好朋友</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[<!-- <div class="addBtn"><button onclick="leonus.linkCom()"><i class="fa-solid fa-circle-plus"></i>快速申请 (默认样式)</button> <button onclick="leonus.linkCom(&quot;bf&quot;)"><i class="fa-solid fa-circle-plus"></i>快速申请 (Butterfly)</button></div><link rel="stylesheet" href="/css/kslink.css"><script src="/js/kslink.js"></script> --><!-- new Vue({    data: function () {        this.$notify({            title: "你已被发现😜",            message: "小伙子，扒源记住要遵循GPL协议！",            position: 'top-left',            offset: 50,            showClose: true,            type: "warning",            duration: 5000        });    }}) -->]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/runtime.css"/>
+      <url>/css/runtime.css</url>
+      
+        <content type="html"><![CDATA[/*电子钟字体*/@font-face {    font-family: 'UnidreamLED';    src: url("https://cdn.jsdelivr.net/npm/akilar-candyassets/fonts/UnidreamLED.ttf");    font-display: swap;  }  div#runtime {    width: 180px;    margin: auto;    color: #fff;    padding-inline: 5px;    border-radius: 10px;    background-color: rgba(0,0,0,0.7);    font-family: 'UnidreamLED';  }  [data-theme="dark"] div#runtime {    color: #28b4c8;    box-shadow: 0 0 5px rgba(28,69,218,0.71);    animation: flashlight 1s linear infinite alternate;  }  /*悬停显示徽标提示语*/  a.github-badge:hover:before {    position: fixed;    width: fit-content;    margin: auto;    left: 0;    right: 0;    top: 10%;    border-radius: 10px;    text-align: center;    z-index: 100;    content: attr(data-title);    font-size: 20px;    color: #fff;    padding: 10px;    background-color: var(--text-bg-hover);  }  [data-theme=dark] a.github-badge:hover:before {    background-color: rgba(18,18,18,0.8);  }  @-moz-keyframes flashlight {    from {      box-shadow: 0 0 5px #1478d2;    }    to {      box-shadow: 0 0 2px #1478d2;    }  }  @-webkit-keyframes flashlight {    from {      box-shadow: 0 0 5px #1478d2;    }    to {      box-shadow: 0 0 2px #1478d2;    }  }  @-o-keyframes flashlight {    from {      box-shadow: 0 0 5px #1478d2;    }    to {      box-shadow: 0 0 2px #1478d2;    }  }  @keyframes flashlight {    from {      box-shadow: 0 0 5px #1478d2;    }    to {      box-shadow: 0 0 2px #1478d2;    }  }]]></content>
       
     </entry>
     
@@ -360,6 +363,39 @@
       <url>/js/cat.js</url>
       
         <content type="html"><![CDATA[if (document.body.clientWidth > 992) {    function getBasicInfo() {        /* 窗口高度 */        var ViewH = $(window).height();        /* document高度 */        var DocH = $("body")[0].scrollHeight;        /* 滚动的高度 */        var ScrollTop = $(window).scrollTop();        /* 可滚动的高度 */        var S_V = DocH - ViewH;        var Band_H = ScrollTop / (DocH - ViewH) * 100;        return {            ViewH: ViewH,            DocH: DocH,            ScrollTop: ScrollTop,            Band_H: Band_H,            S_V: S_V        }    };    function show(basicInfo) {        if (basicInfo.ScrollTop > 0.001) {            $(".neko").css('display', 'block');        } else {            $(".neko").css('display', 'none');        }    }    (function ($) {        $.fn.nekoScroll = function (option) {            var defaultSetting = {                top: '0',                scroWidth: 6 + 'px',                z_index: 9999,                zoom: 0.9,                borderRadius: 5 + 'px',                right: 60 + 'px',                nekoImg: "https://bu.dusays.com/2022/07/20/62d812db74be9.png",                hoverMsg: "喵喵喵~",                color: "#6f42c1",                during: 500,                blog_body: "body",            };            var setting = $.extend(defaultSetting, option);            var getThis = this.prop("className") !== "" ? "." + this.prop("className") : this.prop("id") !== "" ? "#" +                this.prop("id") : this.prop("nodeName");            if ($(".neko").length == 0) {                this.after("<div class=\"neko\" id=" + setting.nekoname + " data-msg=\"" + setting.hoverMsg + "\"></div>");            }            let basicInfo = getBasicInfo();            $(getThis)                .css({                    'position': 'fixed',                    'width': setting.scroWidth,                    'top': setting.top,                    'height': basicInfo.Band_H * setting.zoom * basicInfo.ViewH * 0.01 + 'px',                    'z-index': setting.z_index,                    'background-color': setting.bgcolor,                    "border-radius": setting.borderRadius,                    'right': setting.right,                    'background-image': 'url(' + setting.scImg + ')',                    'background-image': '-webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.1) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, transparent 75%, transparent)', 'border-radius': '2em',                    'background-size': 'contain'                });            $("#" + setting.nekoname)                .css({                    'position': 'fixed',                    'top': basicInfo.Band_H * setting.zoom * basicInfo.ViewH * 0.01 - 50 + 'px',                    'z-index': setting.z_index * 10,                    'right': setting.right,                    'background-image': 'url(' + setting.nekoImg + ')',                });            show(getBasicInfo());            $(window)                .scroll(function () {                    let basicInfo = getBasicInfo();                    show(basicInfo);                    $(getThis)                        .css({                            'position': 'fixed',                            'width': setting.scroWidth,                            'top': setting.top,                            'height': basicInfo.Band_H * setting.zoom * basicInfo.ViewH * 0.01 + 'px',                            'z-index': setting.z_index,                            'background-color': setting.bgcolor,                            "border-radius": setting.borderRadius,                            'right': setting.right,                            'background-image': 'url(' + setting.scImg + ')',                            'background-image': '-webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.1) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, transparent 75%, transparent)', 'border-radius': '2em',                            'background-size': 'contain'                        });                    $("#" + setting.nekoname)                        .css({                            'position': 'fixed',                            'top': basicInfo.Band_H * setting.zoom * basicInfo.ViewH * 0.01 - 50 + 'px',                            'z-index': setting.z_index * 10,                            'right': setting.right,                            'background-image': 'url(' + setting.nekoImg + ')',                        });                    if (basicInfo.ScrollTop == basicInfo.S_V) {                        $("#" + setting.nekoname)                            .addClass("showMsg")                    } else {                        $("#" + setting.nekoname)                            .removeClass("showMsg");                        $("#" + setting.nekoname)                            .attr("data-msg", setting.hoverMsg);                    }                });            this.click(function (e) {                btf.scrollToDest(0, 500)            });            $("#" + setting.nekoname)                .click(function () {                    btf.scrollToDest(0, 500)                });            return this;        }    })(jQuery);    $(document).ready(function () {        //部分自定义        $("#myscoll").nekoScroll({            bgcolor: 'rgb(0 0 0 / .5)', //背景颜色，没有绳子背景图片时有效            borderRadius: '2em',            zoom: 0.9        }        );        //自定义（去掉以下注释，并注释掉其他的查看效果）        /*        $("#myscoll").nekoScroll({            nekoname:'neko1', //nekoname，相当于id            nekoImg:'img/猫咪.png', //neko的背景图片            scImg:"img/绳1.png", //绳子的背景图片            bgcolor:'#1e90ff', //背景颜色，没有绳子背景图片时有效            zoom:0.9, //绳子长度的缩放值            hoverMsg:'你好~喵', //鼠标浮动到neko上方的对话框信息            right:'100px', //距离页面右边的距离            fontFamily:'楷体', //对话框字体            fontSize:'14px', //对话框字体的大小            color:'#1e90ff', //对话框字体颜色            scroWidth:'8px', //绳子的宽度            z_index:100, //不用解释了吧            during:1200, //从顶部到底部滑动的时长        });        */    })}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/universe.css"/>
+      <url>/css/universe.css</url>
+      
+        <content type="html"><![CDATA[/* 背景宇宙星光  */#universe{    display: block;    position: fixed;    margin: 0;    padding: 0;    border: 0;    outline: 0;    left: 0;    top: 0;    width: 100%;    height: 100%;    pointer-events: none;    /* 这个是调置顶的优先级的，-1在文章页下面，背景上面，个人推荐这种 */    z-index: -1;  }]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/readPercent.css"/>
+      <url>/css/readPercent.css</url>
+      
+        <content type="html"><![CDATA[/* 返回顶部 */button#go-up #percent {    display: none;    font-weight: bold;    font-size: 15px !important;}button#go-up span {    font-size: 12px!important;    margin-right: -1px;}/* 鼠标滑动到按钮上时显示返回顶部图标 */button#go-up:hover i {    display: block !important;}button#go-up:hover #percent {    display: none !important;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/cursor.js"/>
+      <url>/js/cursor.js</url>
+      
+        <content type="html"><![CDATA[var CURSOR;Math.lerp = (a, b, n) => (1 - n) * a + n * b;const getStyle = (el, attr) => {    try {        return window.getComputedStyle            ? window.getComputedStyle(el)[attr]            : el.currentStyle[attr];    } catch (e) {}    return "";};class Cursor {    constructor() {        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    move(left, top) {        this.cursor.style["left"] = `${left}px`;        this.cursor.style["top"] = `${top}px`;    }    create() {        if (!this.cursor) {            this.cursor = document.createElement("div");            this.cursor.id = "cursor";            this.cursor.classList.add("hidden");            document.body.append(this.cursor);        }        var el = document.getElementsByTagName('*');        for (let i = 0; i < el.length; i++)            if (getStyle(el[i], "cursor") == "pointer")                this.pt.push(el[i].outerHTML);        document.body.appendChild((this.scr = document.createElement("style")));        // 这里改变鼠标指针的颜色 由svg生成        this.scr.innerHTML = `* {cursor: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8' width='8px' height='8px'><circle cx='4' cy='4' r='4' opacity='1.0' fill='rgb(57, 197, 187)'/></svg>") 4 4, auto}`;    }    refresh() {        this.scr.remove();        this.cursor.classList.remove("hover");        this.cursor.classList.remove("active");        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    init() {        document.onmouseover  = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.add("hover");        document.onmouseout   = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.remove("hover");        document.onmousemove  = e => {(this.pos.curr == null) && this.move(e.clientX - 8, e.clientY - 8); this.pos.curr = {x: e.clientX - 8, y: e.clientY - 8}; this.cursor.classList.remove("hidden");};        document.onmouseenter = e => this.cursor.classList.remove("hidden");        document.onmouseleave = e => this.cursor.classList.add("hidden");        document.onmousedown  = e => this.cursor.classList.add("active");        document.onmouseup    = e => this.cursor.classList.remove("active");    }    render() {        if (this.pos.prev) {            this.pos.prev.x = Math.lerp(this.pos.prev.x, this.pos.curr.x, 0.15);            this.pos.prev.y = Math.lerp(this.pos.prev.y, this.pos.curr.y, 0.15);            this.move(this.pos.prev.x, this.pos.prev.y);        } else {            this.pos.prev = this.pos.curr;        }        requestAnimationFrame(() => this.render());    }}(() => {    CURSOR = new Cursor();    // 需要重新获取列表时，使用 CURSOR.refresh()})();]]></content>
       
     </entry>
     
@@ -432,11 +468,11 @@
     
     
     <entry>
-      <title>花蝶的好朋友</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>花蝶的music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[<!-- <div class="addBtn"><button onclick="leonus.linkCom()"><i class="fa-solid fa-circle-plus"></i>快速申请 (默认样式)</button> <button onclick="leonus.linkCom(&quot;bf&quot;)"><i class="fa-solid fa-circle-plus"></i>快速申请 (Butterfly)</button></div><link rel="stylesheet" href="/css/kslink.css"><script src="/js/kslink.js"></script> --><!-- new Vue({    data: function () {        this.$notify({            title: "你已被发现😜",            message: "小伙子，扒源记住要遵循GPL协议！",            position: 'top-left',            offset: 50,            showClose: true,            type: "warning",            duration: 5000        });    }}) -->]]></content>
+        <content type="html"><![CDATA[<div class="aplayer no-destroy" data-id="708801848" data-server="netease" data-type="playlist" data-fixed="false" data-autoplay="false"> </div>]]></content>
       
     </entry>
     
@@ -448,17 +484,6 @@
       <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>花蝶的QQ群</title>
-      <link href="/qqgroup/index.html"/>
-      <url>/qqgroup/index.html</url>
-      
-        <content type="html"><![CDATA[<h1>进来就整点阳间的，本群原为抖音粉丝群，可以来玩玩哦~~~~</h1><p><img src="https://s1.imagehub.cc/images/2023/03/29/6f9ff71c39e4a1f6e550db60291340e6.jpeg" alt="alt text"></p>]]></content>
       
     </entry>
     
