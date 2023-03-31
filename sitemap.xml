@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/link/index.html</loc>
+    
+    <lastmod>2023-03-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/posts/4a17b156.html</loc>
+    
+    <lastmod>2023-03-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/music/index.html</loc>
     
     <lastmod>2023-03-31</lastmod>
@@ -30,24 +48,6 @@
   
   <url>
     <loc>http://example.com/categories/index.html</loc>
-    
-    <lastmod>2023-03-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/link/index.html</loc>
-    
-    <lastmod>2023-03-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/posts/4a17b156.html</loc>
     
     <lastmod>2023-03-31</lastmod>
     
@@ -155,7 +155,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/bangumis/index%20copy.html</loc>
+    <loc>http://example.com/authorwechat/index.html</loc>
     
     <lastmod>2023-03-27</lastmod>
     
@@ -164,7 +164,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/authorwechat/index.html</loc>
+    <loc>http://example.com/bangumis/index%20copy.html</loc>
     
     <lastmod>2023-03-27</lastmod>
     
@@ -207,7 +207,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/html/</loc>
+    <loc>http://example.com/tags/QQ/</loc>
     <lastmod>2023-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -221,14 +221,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C/</loc>
+    <loc>http://example.com/tags/html/</loc>
     <lastmod>2023-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/QQ/</loc>
+    <loc>http://example.com/tags/%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C/</loc>
     <lastmod>2023-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -258,14 +258,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/java/</loc>
+    <loc>http://example.com/categories/html/</loc>
     <lastmod>2023-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/html/</loc>
+    <loc>http://example.com/categories/java/</loc>
     <lastmod>2023-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

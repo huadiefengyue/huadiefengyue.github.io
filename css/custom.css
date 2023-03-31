@@ -418,7 +418,7 @@
   #nav .menus_items .menus_item:hover .menus_item_child {
     display: flex !important;
   }
-  
+  /* ############################################################################################################################ */
   /* 这里的2是代表导航栏的第2个元素，即有子菜单的元素，可以按自己需求修改 */
   .menus_items .menus_item:nth-child(1) .menus_item_child {
     left: -145px;
@@ -840,3 +840,23 @@ svg.icon {
   background: #3ecdf1;
   color: #f2f2f2;
 }
+
+
+
+svg.icon {
+  width: 1.28em;
+  height: 1.28em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
+
+
+svg.social_icon {
+  width: 1.20em;
+  height: 1.20em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
+
